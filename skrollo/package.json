@@ -33,7 +33,7 @@
     "nuxt-segment-analytics": "0.0.1",
     "nuxt-validate": "^1.0.1",
     "pure-swipe": "^1.0.7",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "sass-loader": "^8.0.0",
     "uninstall": "0.0.0",
     "vee-validate": "^3.2.1",
